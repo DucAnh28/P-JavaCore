@@ -1,4 +1,4 @@
-package sort.selectionSort;
+package java_core.sort.selectionSort;
 
 public class SelectionSort {
     public static void main(String[] args) {

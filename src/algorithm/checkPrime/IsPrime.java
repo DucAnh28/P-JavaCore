@@ -1,4 +1,4 @@
-package checkPrime;
+package algorithm.checkPrime;
 
 public class IsPrime {
     public static void main(String[] args) {

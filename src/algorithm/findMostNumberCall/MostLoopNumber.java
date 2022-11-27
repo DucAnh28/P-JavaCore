@@ -1,4 +1,4 @@
-package findMostNumberCall;
+package algorithm.findMostNumberCall;
 
 import java.util.HashMap;
 import java.util.Map;

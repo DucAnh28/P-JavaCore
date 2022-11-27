@@ -1,4 +1,4 @@
-package sort.insertSort;
+package java_core.sort.insertSort;
 
 public class InsertSort {
     public static void main(String[] args) {
