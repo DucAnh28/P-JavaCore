@@ -5,4 +5,9 @@ public class Splender extends Bike {
     void run() {
         System.out.println("chay cuc manh");
     }
+
+    public static void main(String[] args) {
+        Bike bike = new Splender();
+        bike.run();
+    }
 }

@@ -1,4 +1,4 @@
-package java_core.sort.bubbleSort;
+package java_core.sort;
 
 public class BubbleSort {
     public static void main(String[] args) {
